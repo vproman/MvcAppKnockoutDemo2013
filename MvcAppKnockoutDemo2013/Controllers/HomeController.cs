@@ -26,5 +26,10 @@ namespace MvcAppKnockoutDemo2013.Controllers
 
             return View();
         }
+
+        public ActionResult Products()
+        {
+            return View();
+        }
     }
 }
